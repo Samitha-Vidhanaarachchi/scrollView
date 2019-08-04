@@ -44,4 +44,12 @@
     <string name="p10p">Rs 115000</string>
     <string name="p11p">Rs 205000</string>
     <string name="p9m">12.3 Inch, 256 GB</string>
+    <string name="addProductBtn">Add Product</string>
+    <string name="updateProductBtn">Update Product</string>
+    <string name="deleteProductBtn">Delete Product</string>
+    <string name="Pname">Product Name :</string>
+    <string name="pprice">Product Price :</string>
+    <string name="pcapasity">Product capasity :</string>
+    <string name="Loginbtn">Home Page</string>
+    <string name="AdminLoginbtn">Admin Page</string>
 </resources>
